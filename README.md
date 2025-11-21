@@ -51,8 +51,5 @@ EvalBench is ideal for:
 - Getting automatic eval → interpret → recommend pipelines from natural language instructions
 - Rapidly iterating on model outputs, prompts, and evaluation strategies
   
----
 
-## 🚧 Coming Soon
-- Ecosystem integration - langchain hook
-- CLI support
+
